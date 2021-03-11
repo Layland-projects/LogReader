@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LogReader": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\layla\\Documents\\TestDir\\myLog.log,C:\\Users\\layla\\Documents\\TestDir\\myLog.txt C:\\Users\\layla\\Documents\\TestDir\\output\\output.txt"
+    }
+  }
+}
